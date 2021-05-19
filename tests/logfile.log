@@ -1,0 +1,88 @@
+2021-05-19 09:18:53,302: INFO: test_form: test_home_page is started
+2021-05-19 09:18:53,302: INFO: test_form: First name is Yevhen
+2021-05-19 09:18:53,389: INFO: test_form: Email is evhen@gmail.com
+2021-05-19 09:18:54,128: INFO: test_form: test_home_page is started
+2021-05-19 09:18:54,128: INFO: test_form: First name is Alina
+2021-05-19 09:18:54,203: INFO: test_form: Email is a.domina@gmail.com
+2021-05-19 10:09:30,875: INFO: test_e2e: Getting all the card titles
+2021-05-19 10:09:30,907: INFO: test_e2e: iphone X
+2021-05-19 10:09:30,925: INFO: test_e2e: Samsung Note 8
+2021-05-19 10:09:30,939: INFO: test_e2e: Nokia Edge
+2021-05-19 10:09:30,954: INFO: test_e2e: Blackberry
+2021-05-19 10:09:30,954: INFO: test_e2e: 3
+2021-05-19 10:09:30,956: INFO: test_e2e: Getting iteam to list
+2021-05-19 10:09:31,084: INFO: test_e2e: Entering country name Ind
+2021-05-19 10:09:36,478: INFO: test_e2e: Text received from finish message
+2021-05-19 10:09:40,063: INFO: test_form: test_home_page is started
+2021-05-19 10:09:40,063: INFO: test_form: First name is Yevhen
+2021-05-19 10:09:40,120: INFO: test_form: Email is evhen@gmail.com
+2021-05-19 10:09:40,675: INFO: test_form: test_home_page is started
+2021-05-19 10:09:40,675: INFO: test_form: First name is Alina
+2021-05-19 10:09:40,723: INFO: test_form: Email is a.domina@gmail.com
+2021-05-19 11:26:31,270: INFO: test_e2e: Getting all the card titles
+2021-05-19 11:26:31,321: INFO: test_e2e: iphone X
+2021-05-19 11:26:31,337: INFO: test_e2e: Samsung Note 8
+2021-05-19 11:26:31,354: INFO: test_e2e: Nokia Edge
+2021-05-19 11:26:31,370: INFO: test_e2e: Blackberry
+2021-05-19 11:26:31,370: INFO: test_e2e: 3
+2021-05-19 11:26:31,371: INFO: test_e2e: Getting iteam to list
+2021-05-19 11:26:32,124: INFO: test_e2e: Entering country name Ind
+2021-05-19 11:26:38,266: INFO: test_e2e: Text received from finish message
+2021-05-19 11:26:47,737: INFO: test_form: test_home_page is started
+2021-05-19 11:26:47,738: INFO: test_form: First name is Yevhen
+2021-05-19 11:26:47,795: INFO: test_form: Email is evhen@gmail.com
+2021-05-19 11:26:50,588: INFO: test_form: test_home_page is started
+2021-05-19 11:26:50,588: INFO: test_form: First name is Alina
+2021-05-19 11:26:50,633: INFO: test_form: Email is a.domina@gmail.com
+2021-05-19 12:04:36,289: INFO: test_e2e: Getting all the card titles
+2021-05-19 12:04:36,341: INFO: test_e2e: iphone X
+2021-05-19 12:04:36,376: INFO: test_e2e: Samsung Note 8
+2021-05-19 12:04:36,405: INFO: test_e2e: Nokia Edge
+2021-05-19 12:04:36,432: INFO: test_e2e: Blackberry
+2021-05-19 12:04:36,432: INFO: test_e2e: 3
+2021-05-19 12:04:36,432: INFO: test_e2e: Getting iteam to list
+2021-05-19 12:04:36,761: INFO: test_e2e: Entering country name Ind
+2021-05-19 12:04:42,494: INFO: test_e2e: Text received from finish message
+2021-05-19 12:04:46,071: INFO: test_form: test_home_page is started
+2021-05-19 12:04:46,071: INFO: test_form: First name is Yevhen
+2021-05-19 12:04:46,138: INFO: test_form: Email is evhen@gmail.com
+2021-05-19 12:04:46,750: INFO: test_form: test_home_page is started
+2021-05-19 12:04:46,751: INFO: test_form: First name is Alina
+2021-05-19 12:04:46,813: INFO: test_form: Email is a.domina@gmail.com
+2021-05-19 12:40:19,358: INFO: test_e2e: Getting all the card titles
+2021-05-19 12:40:19,412: INFO: test_e2e: iphone X
+2021-05-19 12:40:19,433: INFO: test_e2e: Samsung Note 8
+2021-05-19 12:40:19,454: INFO: test_e2e: Nokia Edge
+2021-05-19 12:40:19,471: INFO: test_e2e: Blackberry
+2021-05-19 12:40:19,471: INFO: test_e2e: 3
+2021-05-19 12:40:19,471: INFO: test_e2e: Getting iteam to list
+2021-05-19 12:40:19,787: INFO: test_e2e: Entering country name Ind
+2021-05-19 12:40:25,490: INFO: test_e2e: Text received from finish message
+2021-05-19 12:40:29,396: INFO: test_form: test_home_page is started
+2021-05-19 12:40:29,396: INFO: test_form: First name is Yevhen
+2021-05-19 12:40:29,506: INFO: test_form: Email is evhen@gmail.com
+2021-05-19 12:40:30,184: INFO: test_form: test_home_page is started
+2021-05-19 12:40:30,184: INFO: test_form: First name is Alina
+2021-05-19 12:40:30,255: INFO: test_form: Email is a.domina@gmail.com
+2021-05-19 16:00:10,008: INFO: test_e2e: Getting all the card titles
+2021-05-19 16:00:10,046: INFO: test_e2e: iphone X
+2021-05-19 16:00:10,075: INFO: test_e2e: Samsung Note 8
+2021-05-19 16:00:10,097: INFO: test_e2e: Nokia Edge
+2021-05-19 16:00:10,116: INFO: test_e2e: Blackberry
+2021-05-19 16:00:10,116: INFO: test_e2e: 3
+2021-05-19 16:00:10,116: INFO: test_e2e: Getting iteam to list
+2021-05-19 16:00:10,296: INFO: test_e2e: Entering country name Ind
+2021-05-19 16:00:15,909: INFO: test_e2e: Text received from finish message
+2021-05-19 16:00:19,868: INFO: test_form: test_home_page is started
+2021-05-19 16:05:36,511: INFO: test_e2e: Getting all the card titles
+2021-05-19 16:05:36,552: INFO: test_e2e: iphone X
+2021-05-19 16:05:36,577: INFO: test_e2e: Samsung Note 8
+2021-05-19 16:05:36,600: INFO: test_e2e: Nokia Edge
+2021-05-19 16:05:36,623: INFO: test_e2e: Blackberry
+2021-05-19 16:05:36,623: INFO: test_e2e: 3
+2021-05-19 16:05:36,624: INFO: test_e2e: Getting iteam to list
+2021-05-19 16:05:36,808: INFO: test_e2e: Entering country name Ind
+2021-05-19 16:05:42,333: INFO: test_e2e: Text received from finish message
+2021-05-19 16:05:46,272: INFO: test_form: test_home_page is started
+2021-05-19 16:05:46,273: INFO: test_form: First name is Vasya
+2021-05-19 16:05:46,384: INFO: test_form: Email is vasya@gmail.com
